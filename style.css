@@ -35,7 +35,9 @@ background-color: rgb(250, 247, 245);
 }
 a{
     border: 0cap;
-    color: rgb(165, 136, 42);
+    color: rgb(79, 16, 224);
+    font-weight: bold;
+    font-size: x-large;
     
 }
 hr{
