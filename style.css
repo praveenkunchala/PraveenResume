@@ -33,6 +33,11 @@ hr{
     
     clear: both;
 }
+.resume{
+margin: 60px;
+    font-size: large;
+    text-align: center;
+}
 #AboutMe{
     clear: both;
     text-align: center;
