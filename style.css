@@ -1,0 +1,58 @@
+
+img{
+        
+    display: inline-block;
+}
+
+
+h1{
+text-align: center;
+color: rgb(230, 225, 214);
+
+}
+.containerTools{
+ display: inline-flex;
+ margin: 20px;
+}
+
+.profileimage>img{
+
+    float: left;
+}
+
+
+html{
+background-color: rgb(250, 247, 245);
+}
+a{
+    border: 0cap;
+    color: rgb(165, 136, 42);
+    
+}
+hr{
+    
+    clear: both;
+}
+#AboutMe{
+    clear: both;
+    text-align: center;
+}
+p{
+    color: rgb(2, 2, 15);
+    font-style:oblique;
+    font-weight: bold;
+    font-size: larger;
+    text-indent: 80px;
+}
+h2{
+    text-align: center;
+    background-color: rgb(22, 14, 3);
+    
+}
+
+h3{
+    color: rgb(226, 39, 39);
+}
+.tool{
+    text-align: center;
+}
