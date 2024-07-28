@@ -14,11 +14,11 @@ color: rgb(228, 226, 223);
  display: inline-flex;
  margin: 20px;
 }
-.containerTools p{
-
-margin-left: 0%;
-color:rgb(230, 148, 25)
-}
+.FewMoreTools {
+    display: inline-flex;
+    margin: 20px;
+   }
+   
 
 .profileimage>img{
 
