@@ -11,9 +11,9 @@ color: rgb(228, 226, 223);
 
 }
 .containerTools {
- display: inline-flex;
- margin: 20px;
-}
+    display: inline-flex;
+    margin: 20px;
+   }
 .FewMoreTools {
     display: inline-flex;
     margin: 20px;
